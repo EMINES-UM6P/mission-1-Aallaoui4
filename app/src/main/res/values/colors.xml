@@ -5,8 +5,9 @@
     <color name="colorAccent">#FF4081</color>
 
     <!-- // TODO : Create 3 colors (Background_color, input_color, btn_color) -->
-    <color name="background">#8c0909</color>
-    <color name="input">#b11dd2</color>
-    <color name="btn">#1d47d2</color>
+    <color name="background_color">#050761</color>
+    <color name="input_color">#fcfbfc</color>
+    <color name="btn_color">#d22bc7</color>
+    <color name="text_color">#f7f7f7</color>
 
 </resources>
